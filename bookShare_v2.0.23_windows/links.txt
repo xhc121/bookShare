@@ -1,0 +1,3 @@
+http://ahjp.ahlib.com:8011/BookInfo?book_id=90001927
+http://dfwx.fntsg.com/book/detail/id/140
+http://221.13.137.120:8090/productshow.php?cid=2&id=153
